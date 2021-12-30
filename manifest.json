@@ -1,0 +1,6 @@
+{
+    "name": "SyncVoiceStates",
+    "version": "1.0.0",
+    "author": "Strencher",
+    "description": "Sync the current user's voice state across clients."
+}
